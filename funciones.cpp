@@ -527,6 +527,7 @@ void bag(Juego & j){
                             cout << "pica3: " << j.pica3 << endl;
                             cout << "cana2: " << j.cana2 << endl;
                             cout << "cana3: " << j.cana3 << endl;
+                            cout << "exp: " << j.exp << endl;
 
 }
 
